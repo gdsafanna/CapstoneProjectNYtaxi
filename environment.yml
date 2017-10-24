@@ -8,32 +8,22 @@ dependencies:
 - folium=0.5.0=py_0
 - geojson=2.1.0=py_0
 - gmaps=0.6.1=py36_0
-- ipyleaflet=0.3.0=py36_0
-- lancet=0.9.0=py36_0
-- owslib=0.15.0=py_0
-- proj4=4.9.3=4
-- pyepsg=0.3.2=py36_0
-- pyproj=1.9.5.1=py36_0
-- pyshp=1.2.12=py_0
-- shapely=1.5.17=np112py36_2
-- vincent=0.4.4=py36_0
 - widgetsnbextension=3.0.2=py36_0
 - _license=1.1=py36_1
 - alabaster=0.7.10=py36_0
-- anaconda-client=1.6.3=py36_0
-- anaconda=custom=py36_0
-- anaconda-navigator=1.6.2=py36_0
-- anaconda-project=0.6.0=py36_0
 - basemap=1.0.7=np112py36_0
-- ipywidgets=7.0.0=py36h24d3910_0
+- bokeh
+- ipywidgets
+- jsonschema=2.6.0=py36_0
 - matplotlib=2.0.2=np112py36_0
+- notebook=5.0.0=py36_0
+- numba=0.33.0=np112py36_0
+- numexpr=2.6.2=np112py36_0
 - numpy=1.12.1=py36_0
 - pandas=0.20.1=np112py36_0
-- pip=9.0.1=py36_1
 - plotly=2.0.11=py36_0
 - python=3.6.1=2
 - python-dateutil=2.6.1=py36_0
-- python.app=1.2=py36_4
 - qt=5.6.2=2
 - qtawesome=0.4.4=py36_0
 - qtconsole=4.3.0=py36_0
@@ -42,4 +32,5 @@ dependencies:
 - geoviews=1.3.2=py36_0
 - holoviews=1.8.4=py36h6f73470_0
 
+prefix: /Users/apolatovskaya/anaconda
 
